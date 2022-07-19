@@ -32,7 +32,7 @@ Content-Type: application/json
 ###
 
 # добавление измерения
-POST http://localhost:8000/api/measurements/
+POST http://localhost:8000/api/sensors/measurements/
 Content-Type: application/json
 
 {
